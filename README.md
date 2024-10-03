@@ -107,6 +107,7 @@ The dictionary attack follows these steps for each password attempt:
 4. Wait for the specified waiting time.
 5. Check if the connection was successful.
 6. If unsuccessful, disconnect and try the next password.
+7. You may download the famous dictionary file "RockyYou" from here: https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
 ## Troubleshooting
 

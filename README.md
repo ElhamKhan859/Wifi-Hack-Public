@@ -31,7 +31,7 @@ The application window is divided into several sections:
 
 ### 1. Launching the Application
 
-To start the WiFi Hacker application, run the `main.py` script. This will open the main application window.
+To start the WiFi Hacker application, run the `wifi-hack.exe` file. This will open the main application window.
 
 ### 2. Selecting a WiFi Interface
 
@@ -93,9 +93,9 @@ The attack will continue until either:
 The application uses the PyWiFi library to interact with the selected wireless interface. When scanning for SSIDs:
 
 1. The selected interface is disconnected from any current network.
-2. A scan is initiated using the `iface.scan()` method.
+2. A scan is initiated.
 3. The application waits for 12 seconds to allow for a thorough scan.
-4. Scan results are retrieved using `iface.scan_results()`.
+4. Scan results are retrieved.
 
 ### Dictionary Attack Mechanism
 
@@ -120,7 +120,6 @@ The dictionary attack follows these steps for each password attempt:
 
 - Verify that your WiFi adapter is functioning correctly.
 - Ensure you're within range of WiFi networks.
-- Try increasing the scan wait time in the `wifi.py` file (currently set to 12 seconds).
 
 ### Attack Not Starting
 
@@ -132,8 +131,6 @@ The dictionary attack follows these steps for each password attempt:
 
 - Network Vulnerability: The ability to crack WiFi passwords demonstrates the importance of using strong, unique passwords for your networks.
 - WPA2 Weaknesses: While more secure than older protocols, WPA2 can still be vulnerable to dictionary attacks if weak passwords are used.
-- Importance of Updates: Regularly update your router's firmware to protect against known vulnerabilities.
-- Alternative Security Measures: Consider additional security measures like MAC address filtering or a VPN for sensitive data.
 
 ## Future Developments
 
@@ -143,6 +140,11 @@ The dictionary attack follows these steps for each password attempt:
 - Reporting Functionality: Implementing a comprehensive reporting system for documenting security audits.
 - Cross-Platform Compatibility: Ensuring the application works consistently across different operating systems.
 
-## Conclusion
+## Notes
 
-The WiFi Hacker application serves as a powerful tool for understanding and testing WiFi security. By providing a user-friendly interface for WiFi scanning and password cracking attempts, it highlights the importance of robust security measures in wireless networks. Remember to always use this tool responsibly and ethically, respecting privacy and legal boundaries. As WiFi security continues to evolve, tools like this play a crucial role in identifying weaknesses and promoting stronger security practices.
+Remember to always use this tool responsibly and ethically, respecting privacy and legal boundaries. As WiFi security continues to evolve, tools like this play a crucial role in identifying weaknesses and promoting stronger security practices.
+
+Developed by: MOHAMMAD NAIM ELHAM
+Version 1.0: October 2024
+
+

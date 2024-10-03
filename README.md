@@ -144,7 +144,8 @@ The dictionary attack follows these steps for each password attempt:
 
 Remember to always use this tool responsibly and ethically, respecting privacy and legal boundaries. As WiFi security continues to evolve, tools like this play a crucial role in identifying weaknesses and promoting stronger security practices.
 
-Developed by: MOHAMMAD NAIM ELHAM\n
+Developed by: MOHAMMAD NAIM ELHAM
+
 Version 1.0: October 2024
 
 

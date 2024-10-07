@@ -21,10 +21,7 @@ The WiFi Hacker application is a graphical user interface (GUI) tool built using
 ## Get the Product here:
 https://naimelham.gumroad.com/l/wifi-hacker
 
-
-![Alt text](Snapshot.gif "SNAPSHOT")
-
-<img src="Snapshot.gif" alt="SNAPSHOT" width="300"/>
+<img src="Snapshot.gif" alt="SNAPSHOT" width="350"/>
 
 ## User Interface Layout
 

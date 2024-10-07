@@ -18,6 +18,8 @@ The WiFi Hacker application is a graphical user interface (GUI) tool built using
 - Attack Execution: Initiate the dictionary attack on the selected network.
 - Progress Monitoring: View real-time progress and status updates during the attack.
 
+![Alt text](snapshot.gif "SNAPSHOT")
+
 ## User Interface Layout
 
 The application window is divided into several sections:

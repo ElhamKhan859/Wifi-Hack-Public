@@ -24,7 +24,7 @@ https://naimelham.gumroad.com/l/wifi-hacker
 
 ![Alt text](Snapshot.gif "SNAPSHOT")
 
-
+<img src="Snapshot.jpg" alt="SNAPSHOT" width="300"/>
 
 ## User Interface Layout
 

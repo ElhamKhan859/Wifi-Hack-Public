@@ -92,26 +92,26 @@ The attack will continue until either:
 - Click on Utilities and select Find Your Wifi Response Time from the dropdown menu.
 
 1. Using the Utility
-- Open the Response Time Window
-- A new window titled "Find Your Wifi Response Time" will appear.
-- If you haven't locked an SSID (Wi-Fi network) or chosen a cipher type, you'll be prompted to do so first.
+ - Open the Response Time Window
+ - A new window titled "Find Your Wifi Response Time" will appear.
+ - If you haven't locked an SSID (Wi-Fi network) or chosen a cipher type, you'll be prompted to do so first.
 2. Enter Password
-- If you've locked an SSID, enter the password for this network in the provided text field.
+ - If you've locked an SSID, enter the password for this network in the provided text field.
 3. Start Testing
-- Click on the Find Response Time button to begin the test.
-- The button and password entry will be disabled during the test to prevent interruptions.
+ - Click on the Find Response Time button to begin the test.
+ - The button and password entry will be disabled during the test to prevent interruptions.
 4. View Results
-- The utility will test various waiting times and display results in a text area within the window.
-- It will show whether each attempt was successful or failed.
+ - The utility will test various waiting times and display results in a text area within the window.
+ - It will show whether each attempt was successful or failed.
 5. Understanding Results
-- The utility tests different waiting times (e.g., 3 seconds, 2 seconds, etc.) to determine how quickly your adapter can connect.
-- Successful connections are marked with "Good!" while failed attempts show "Failed."
+ - The utility tests different waiting times (e.g., 3 seconds, 2 seconds, etc.) to determine how quickly your adapter can connect.
+ - Successful connections are marked with "Good!" while failed attempts show "Failed."
 6. Additional Features
-- Status Updates: A status bar at the bottom of the window provides real-time updates on the testing process.
-- Completion Notification: Once all tests are complete, you will receive a notification in the text area.
+ - Status Updates: A status bar at the bottom of the window provides real-time updates on the testing process.
+ - Completion Notification: Once all tests are complete, you will receive a notification in the text area.
 7. Tips for Best Results
-- Ensure your Wi-Fi adapter is enabled and functioning properly.
-- Lock an SSID and choose a cipher type before starting the utility.
+ - Ensure your Wi-Fi adapter is enabled and functioning properly.
+ - Lock an SSID and choose a cipher type before starting the utility.
 
 
 ### About Information

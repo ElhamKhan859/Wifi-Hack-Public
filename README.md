@@ -180,6 +180,6 @@ Remember to always use this tool responsibly and ethically, respecting privacy a
 
 Developed by: MOHAMMAD NAIM ELHAM
 
-Version 1.0: October 2024
+Version 1.1: October 2024
 
 
